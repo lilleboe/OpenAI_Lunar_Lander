@@ -1,0 +1,234 @@
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense_7 (Dense)              (None, 128)               1152      
+_________________________________________________________________
+dense_8 (Dense)              (None, 9)                 1161      
+=================================================================
+Total params: 2,313
+Trainable params: 2,313
+Non-trainable params: 0
+_________________________________________________________________
+None
+episode: 0/100, score: 226.0, time: 3.5, steps: 194
+episode: 1/100, score: 103.0, time: 1.7e+01, steps: 999
+episode: 2/100, score: -676.0, time: 1.9, steps: 116
+episode: 3/100, score: 200.0, time: 3.9, steps: 236
+episode: 4/100, score: 165.0, time: 4.5, steps: 268
+episode: 5/100, score: 222.0, time: 4.8, steps: 288
+episode: 6/100, score: 221.0, time: 4.0, steps: 238
+episode: 7/100, score: -500.0, time: 1.7, steps: 100
+episode: 8/100, score: 199.0, time: 3.7, steps: 219
+episode: 9/100, score: 210.0, time: 4.4, steps: 265
+episode: 10/100, score: 243.0, time: 4.0, steps: 237
+episode: 11/100, score: 233.0, time: 4.4, steps: 262
+episode: 12/100, score: 240.0, time: 4.2, steps: 253
+episode: 13/100, score: 225.0, time: 3.1, steps: 185
+episode: 14/100, score: 153.0, time: 5.6, steps: 336
+episode: 15/100, score: 220.0, time: 3.7, steps: 220
+episode: 16/100, score: 181.0, time: 3.7, steps: 220
+episode: 17/100, score: 206.0, time: 3.6, steps: 214
+episode: 18/100, score: 193.0, time: 3.6, steps: 218
+episode: 19/100, score: 209.0, time: 3.7, steps: 219
+episode: 20/100, score: -402.0, time: 2.2, steps: 130
+episode: 21/100, score: 235.0, time: 4.8, steps: 286
+episode: 22/100, score: 193.0, time: 3.7, steps: 219
+episode: 23/100, score: 219.0, time: 3.0, steps: 181
+episode: 24/100, score: 217.0, time: 4.0, steps: 241
+episode: 25/100, score: 228.0, time: 3.8, steps: 228
+episode: 26/100, score: 179.0, time: 4.2, steps: 249
+episode: 27/100, score: -371.0, time: 2.3, steps: 135
+episode: 28/100, score: 222.0, time: 4.0, steps: 239
+episode: 29/100, score: 232.0, time: 6.9, steps: 415
+episode: 30/100, score: 232.0, time: 4.1, steps: 247
+episode: 31/100, score: 218.0, time: 4.0, steps: 239
+episode: 32/100, score: -579.0, time: 1.9, steps: 110
+episode: 33/100, score: 157.0, time: 1.2e+01, steps: 706
+episode: 34/100, score: 165.0, time: 3.5, steps: 209
+episode: 35/100, score: 237.0, time: 4.4, steps: 265
+episode: 36/100, score: 210.0, time: 3.7, steps: 219
+episode: 37/100, score: 251.0, time: 4.7, steps: 281
+episode: 38/100, score: 188.0, time: 4.6, steps: 278
+episode: 39/100, score: 220.0, time: 4.4, steps: 264
+episode: 40/100, score: 211.0, time: 3.7, steps: 220
+episode: 41/100, score: 235.0, time: 5.6, steps: 335
+episode: 42/100, score: 223.0, time: 3.9, steps: 233
+episode: 43/100, score: 221.0, time: 4.0, steps: 236
+episode: 44/100, score: 216.0, time: 4.0, steps: 237
+episode: 45/100, score: 194.0, time: 5.0, steps: 297
+episode: 46/100, score: 195.0, time: 3.9, steps: 231
+episode: 47/100, score: 136.0, time: 7.5, steps: 451
+episode: 48/100, score: 172.0, time: 4.8, steps: 287
+episode: 49/100, score: -382.0, time: 2.4, steps: 143
+episode: 50/100, score: 146.0, time: 4.1, steps: 246
+episode: 51/100, score: 213.0, time: 3.5, steps: 207
+episode: 52/100, score: 220.0, time: 4.0, steps: 241
+episode: 53/100, score: 235.0, time: 3.4, steps: 205
+episode: 54/100, score: 206.0, time: 3.2, steps: 190
+episode: 55/100, score: 155.0, time: 4.7, steps: 278
+episode: 56/100, score: 208.0, time: 4.2, steps: 254
+episode: 57/100, score: 203.0, time: 3.8, steps: 227
+episode: 58/100, score: 66.0, time: 1.7e+01, steps: 999
+episode: 59/100, score: 220.0, time: 6.6, steps: 394
+episode: 60/100, score: 175.0, time: 4.8, steps: 290
+episode: 61/100, score: 207.0, time: 3.3, steps: 200
+episode: 62/100, score: 231.0, time: 4.1, steps: 244
+episode: 63/100, score: 165.0, time: 4.5, steps: 270
+episode: 64/100, score: 203.0, time: 3.8, steps: 225
+episode: 65/100, score: 116.0, time: 1.7e+01, steps: 999
+episode: 66/100, score: 196.0, time: 3.4, steps: 202
+episode: 67/100, score: 211.0, time: 3.7, steps: 224
+episode: 68/100, score: 237.0, time: 3.2, steps: 192
+episode: 69/100, score: 225.0, time: 4.3, steps: 255
+episode: 70/100, score: 200.0, time: 4.2, steps: 249
+episode: 71/100, score: 194.0, time: 3.7, steps: 224
+episode: 72/100, score: 240.0, time: 4.4, steps: 264
+episode: 73/100, score: 216.0, time: 6.7, steps: 402
+episode: 74/100, score: 200.0, time: 3.6, steps: 215
+episode: 75/100, score: 229.0, time: 3.1, steps: 184
+episode: 76/100, score: 223.0, time: 3.2, steps: 192
+episode: 77/100, score: -708.0, time: 1.8, steps: 107
+episode: 78/100, score: 172.0, time: 1.4e+01, steps: 817
+episode: 79/100, score: 197.0, time: 3.0, steps: 177
+episode: 80/100, score: 55.0, time: 1.7e+01, steps: 999
+episode: 81/100, score: 92.0, time: 1.7e+01, steps: 999
+episode: 82/100, score: 196.0, time: 3.6, steps: 218
+episode: 83/100, score: 211.0, time: 4.2, steps: 250
+episode: 84/100, score: 192.0, time: 4.2, steps: 254
+episode: 85/100, score: 223.0, time: 4.2, steps: 253
+episode: 86/100, score: 228.0, time: 4.2, steps: 252
+episode: 87/100, score: 199.0, time: 4.3, steps: 260
+episode: 88/100, score: 206.0, time: 4.0, steps: 239
+episode: 89/100, score: 215.0, time: 3.8, steps: 228
+episode: 90/100, score: 207.0, time: 4.6, steps: 275
+episode: 91/100, score: 193.0, time: 3.2, steps: 194
+episode: 92/100, score: 232.0, time: 4.2, steps: 251
+episode: 93/100, score: 206.0, time: 4.1, steps: 245
+episode: 94/100, score: 191.0, time: 4.7, steps: 283
+episode: 95/100, score: 214.0, time: 4.0, steps: 240
+episode: 96/100, score: 193.0, time: 3.5, steps: 212
+episode: 97/100, score: 214.0, time: 4.0, steps: 236
+episode: 98/100, score: -518.0, time: 2.0, steps: 122
+episode: 99/100, score: 191.0, time: 8.1, steps: 485
+total time: 481.42039608955383
+Average reward: 142.87723481041022
+No handles with labels found to put in legend.
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense_9 (Dense)              (None, 128)               1152      
+_________________________________________________________________
+dense_10 (Dense)             (None, 256)               33024     
+_________________________________________________________________
+dense_11 (Dense)             (None, 9)                 2313      
+=================================================================
+Total params: 36,489
+Trainable params: 36,489
+Non-trainable params: 0
+_________________________________________________________________
+None
+episode: 0/100, score: 201.0, time: 4.2, steps: 245
+episode: 1/100, score: 225.0, time: 4.2, steps: 250
+episode: 2/100, score: 227.0, time: 2.9, steps: 172
+episode: 3/100, score: 139.0, time: 6.8, steps: 406
+episode: 4/100, score: 248.0, time: 4.0, steps: 240
+episode: 5/100, score: 226.0, time: 3.9, steps: 233
+episode: 6/100, score: 177.0, time: 4.5, steps: 266
+episode: 7/100, score: 247.0, time: 3.6, steps: 216
+episode: 8/100, score: 104.0, time: 1.7e+01, steps: 999
+episode: 9/100, score: 199.0, time: 3.8, steps: 229
+episode: 10/100, score: 187.0, time: 4.3, steps: 257
+episode: 11/100, score: 192.0, time: 4.9, steps: 290
+episode: 12/100, score: 260.0, time: 2.9, steps: 175
+episode: 13/100, score: 232.0, time: 3.8, steps: 225
+episode: 14/100, score: 161.0, time: 7.5, steps: 450
+episode: 15/100, score: 154.0, time: 6.7, steps: 398
+episode: 16/100, score: 234.0, time: 4.2, steps: 249
+episode: 17/100, score: 197.0, time: 3.8, steps: 225
+episode: 18/100, score: 103.0, time: 1.7e+01, steps: 999
+episode: 19/100, score: 84.0, time: 1.7e+01, steps: 999
+episode: 20/100, score: 172.0, time: 5.1, steps: 303
+episode: 21/100, score: 248.0, time: 4.3, steps: 255
+episode: 22/100, score: 203.0, time: 3.9, steps: 231
+episode: 23/100, score: 218.0, time: 3.9, steps: 233
+episode: 24/100, score: 237.0, time: 5.6, steps: 332
+episode: 25/100, score: 189.0, time: 4.5, steps: 266
+episode: 26/100, score: 212.0, time: 3.6, steps: 216
+episode: 27/100, score: 211.0, time: 3.7, steps: 220
+episode: 28/100, score: 217.0, time: 3.1, steps: 188
+episode: 29/100, score: 250.0, time: 4.3, steps: 256
+episode: 30/100, score: 204.0, time: 3.0, steps: 181
+episode: 31/100, score: 229.0, time: 3.9, steps: 232
+episode: 32/100, score: 223.0, time: 4.4, steps: 261
+episode: 33/100, score: 246.0, time: 3.2, steps: 192
+episode: 34/100, score: 231.0, time: 3.7, steps: 221
+episode: 35/100, score: 184.0, time: 4.4, steps: 264
+episode: 36/100, score: 115.0, time: 1.7e+01, steps: 999
+episode: 37/100, score: 200.0, time: 3.7, steps: 218
+episode: 38/100, score: 212.0, time: 4.1, steps: 243
+episode: 39/100, score: 189.0, time: 4.3, steps: 258
+episode: 40/100, score: 173.0, time: 4.8, steps: 284
+episode: 41/100, score: 233.0, time: 3.5, steps: 210
+episode: 42/100, score: 212.0, time: 3.5, steps: 207
+episode: 43/100, score: 230.0, time: 3.6, steps: 216
+episode: 44/100, score: 179.0, time: 5.0, steps: 298
+episode: 45/100, score: 217.0, time: 4.1, steps: 244
+episode: 46/100, score: 187.0, time: 9.6, steps: 574
+episode: 47/100, score: 256.0, time: 4.3, steps: 259
+episode: 48/100, score: 213.0, time: 4.4, steps: 261
+episode: 49/100, score: 227.0, time: 4.0, steps: 236
+episode: 50/100, score: 197.0, time: 4.1, steps: 242
+episode: 51/100, score: 96.0, time: 1.7e+01, steps: 999
+episode: 52/100, score: 231.0, time: 3.5, steps: 211
+episode: 53/100, score: 168.0, time: 9.8, steps: 586
+episode: 54/100, score: 247.0, time: 3.4, steps: 202
+episode: 55/100, score: 238.0, time: 3.4, steps: 204
+episode: 56/100, score: 209.0, time: 4.6, steps: 277
+episode: 57/100, score: 244.0, time: 4.7, steps: 279
+episode: 58/100, score: 166.0, time: 4.5, steps: 268
+episode: 59/100, score: 192.0, time: 1.1e+01, steps: 671
+episode: 60/100, score: 221.0, time: 3.6, steps: 217
+episode: 61/100, score: 250.0, time: 4.5, steps: 269
+episode: 62/100, score: 220.0, time: 3.7, steps: 221
+episode: 63/100, score: 249.0, time: 4.8, steps: 285
+episode: 64/100, score: 216.0, time: 5.3, steps: 315
+episode: 65/100, score: 249.0, time: 3.5, steps: 209
+episode: 66/100, score: 203.0, time: 3.7, steps: 221
+episode: 67/100, score: 212.0, time: 4.4, steps: 262
+episode: 68/100, score: 243.0, time: 3.6, steps: 216
+episode: 69/100, score: 252.0, time: 3.7, steps: 221
+episode: 70/100, score: 164.0, time: 3.8, steps: 224
+episode: 71/100, score: 206.0, time: 4.5, steps: 269
+episode: 72/100, score: 196.0, time: 4.0, steps: 238
+episode: 73/100, score: 227.0, time: 3.5, steps: 210
+episode: 74/100, score: 245.0, time: 5.6, steps: 335
+episode: 75/100, score: 198.0, time: 4.1, steps: 246
+episode: 76/100, score: 196.0, time: 1.3e+01, steps: 764
+episode: 77/100, score: 77.0, time: 1.7e+01, steps: 999
+episode: 78/100, score: 224.0, time: 3.7, steps: 222
+episode: 79/100, score: 211.0, time: 3.8, steps: 224
+episode: 80/100, score: 248.0, time: 3.4, steps: 205
+episode: 81/100, score: 207.0, time: 3.6, steps: 216
+episode: 82/100, score: 65.0, time: 1.7e+01, steps: 999
+episode: 83/100, score: 196.0, time: 4.4, steps: 261
+episode: 84/100, score: 198.0, time: 7.0, steps: 418
+episode: 85/100, score: 262.0, time: 4.0, steps: 239
+episode: 86/100, score: 231.0, time: 4.5, steps: 268
+episode: 87/100, score: 73.0, time: 1.7e+01, steps: 999
+episode: 88/100, score: 205.0, time: 3.7, steps: 223
+episode: 89/100, score: 175.0, time: 6.8, steps: 404
+episode: 90/100, score: 205.0, time: 3.6, steps: 218
+episode: 91/100, score: 236.0, time: 3.3, steps: 198
+episode: 92/100, score: 212.0, time: 5.6, steps: 337
+episode: 93/100, score: 215.0, time: 3.7, steps: 220
+episode: 94/100, score: 214.0, time: 3.6, steps: 214
+episode: 95/100, score: 213.0, time: 3.7, steps: 220
+episode: 96/100, score: 221.0, time: 4.7, steps: 282
+episode: 97/100, score: 253.0, time: 3.9, steps: 233
+episode: 98/100, score: 202.0, time: 3.6, steps: 216
+episode: 99/100, score: 216.0, time: 4.0, steps: 236
+total time: 545.079751253128
+Average reward: 204.08793265502547
+No handles with labels found to put in legend.
+
+Process finished with exit code 0
