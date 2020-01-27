@@ -1,7 +1,6 @@
-# OpenAI_Lunar_Lander
-## Lunar Lander Machine Learning project utilizing OpenAI
+# OpenAI Lunar Lander Machine Learning Project
 
-### Files/Directories
+#### Files/Directories
 * capstone.py
   - Main Python project code. This code along with the two weight files listed below should all
 be in the same directory.
@@ -22,7 +21,7 @@ a required directory, but it was added for further reference.
 * proposal.pdf
   - The capstone proposal document.
   
-### Required Packages
+#### Required Packages
 * Python 3.6.1
   - The project was created with Anaconda 3
 * Keras 2.1.2
@@ -31,7 +30,7 @@ a required directory, but it was added for further reference.
 * Matplotlib 2.1.2
 * gym.spaces
 
-### How to Run
+#### Instructions
 Call capstone.py from a command line:
 
 `> Python captone.py`
